@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "id": "b151",
+      "title": "Finished creating my website!",
+      "body": "I was able to create my blog and add the formatted timestamp.\n",
+      "formattedDate": "April 4 at 11:32 PM",
+      "author": "Matthew"
+    },
+    {
+      "id": "1bb6",
+      "title": "Experimenting with fonts",
+      "body": "Trying to change the fonts of the blog content so its more serif.",
+      "formattedDate": "April 4 at 11:57 PM",
+      "author": "Matthew"
+    },
+    {
+      "id": "e8f0",
+      "title": "hu",
+      "body": "hu",
+      "formattedDate": "April 5 at 3:59 PM",
+      "author": "Matthew"
+    }
+  ]
+}
